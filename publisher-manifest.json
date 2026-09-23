@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "725bbbead31cb908bc62c4b3",
+  "owner": "ravpnhu8u",
+  "repo": "page-357c7bfa5386615f8005f552",
+  "title": "FlyBit机场(FlyBit)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "357c7bfa5386615f8005f552",
+      "a": "FlyBit机场(FlyBit)",
+      "b": "机场官网线路发布页",
+      "entity": "FlyBit机场(FlyBit)",
+      "brand": "FlyBit机场(FlyBit)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7fac02df5a55af72ab9c9032fd4f0189783d9cadeea897202adeaa35fb63b43b",
+      "content": {
+        "primary_entity": "FlyBit机场(FlyBit)",
+        "keyword1": "FlyBit机场(FlyBit)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，FlyBit机场面向跨境办公、流媒体与游戏加速场景，提供基础版、旗舰版、团队版三档订阅。基础版每月 100GB 流量，适合 3 台设备以内轻度使用；旗舰版每月 300GB 流量、支持 5 台设备同时在线，并加入 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备同时在线，可定制企业路由。三档套餐均可按年付节省费用，按需选择即可。",
+          "AI_HERO_SUBTITLE": "FlyBit 多设备订阅与线路选择",
+          "AI_HERO_INTRO": "FlyBit机场提供基础版、旗舰版与团队版三档订阅，覆盖从轻度流媒体到企业团队加速的不同需求。三档套餐在月流量、同时在线设备数与节点类型上有明确区分，用户可依据使用设备数量与流量消耗情况选择。",
+          "AI_VISUAL_TITLE": "FlyBit 套餐与设备搭配",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备同时在线",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模与节点类型出发，整理 FlyBit机场三档套餐的选择要点。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，依常用设备数量匹配对应档位。",
+          "AI_FEATURE_TITLE_2": "按流量规模选套餐",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量，轻度浏览选基础版，高频使用选旗舰版或团队版。",
+          "AI_FEATURE_TITLE_3": "按线路需求选套餐",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备适合搭配不同客户端，按系统选择并参照对应客户端的订阅导入说明完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；三档年付均可节省费用，按年付分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再选择套餐，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "确定使用规模",
+          "AI_STEP_TEXT_1": "统计常用设备数量与每月流量消耗，在基础版、旗舰版与团队版之间做初步筛选。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对所选套餐的同时在线设备数、月流量与节点类型，确认与使用场景匹配。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_STEP_TEXT_3": "在目标设备上安装对应客户端，依照客户端文档导入订阅并选择合适的节点。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与套餐选择。",
+          "AI_FAQ_QUESTION_1": "FlyBit机场三档套餐主要差别在哪里？",
+          "AI_FAQ_ANSWER_1": "差别集中在月流量、同时在线设备数与节点类型。基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，并含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，提供 VIP 高带宽节点与定制路由。",
+          "AI_FAQ_QUESTION_2": "如何判断自己适合哪档套餐？",
+          "AI_FAQ_ANSWER_2": "先统计常用设备数量和每月流量消耗。三台以内、流量需求较低选基础版；有游戏加速或多设备流媒体需求选旗舰版；设备多、流量消耗大或需要定制路由选团队版。",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟和稳定性有要求的在线游戏、实时协作等场景，同时支持全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_4": "团队版支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_4": "团队版支持 20 台设备同时在线，每月提供 1000GB 极速流量，并包含 VIP 专属高带宽节点与企业定制路由，适合小型团队统一使用。",
+          "AI_FAQ_QUESTION_5": "订阅如何导入到客户端？",
+          "AI_FAQ_ANSWER_5": "在手机或电脑上安装适合当前系统的客户端，打开客户端后依照对应文档导入订阅链接，再选择节点即可使用。不同客户端的导入方式略有差异，以客户端文档说明为准。",
+          "AI_CLOSING_TITLE": "从设备与流量出发",
+          "AI_CLOSING_TEXT": "按常用设备数量和月流量需求选择套餐，再依客户端文档完成订阅导入。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zoomoem.com",
+    "host": "zoomoem.com"
+  },
+  "file_hashes": {
+    "index.html": "15c14ca21b202b3ff3a5e19d11ac813f584600d13385f19ad41e24d7e4966a44",
+    "sitemap.xml": "22b9dc368af37ed3d067d57865ac2a7c5fca364ddef31f1108a2cc6a204ea044",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "af1d32431ebaf83b7ad0b6b7fdc8c6bb56089edd9d0c9a74d75e5f3e6e4da373",
+    "robots.txt": "69c637ed0ba56b37083ada5341327c36d78428b135720930dae66d63de73b4bf",
+    "cea6a5fb0b88c831d41320e3366e1245.txt": "8b4a0ce4970b4e09ca977f7e3efa51a1c29453f79c02d424c312b1074b080544"
+  },
+  "revision": "1f95512836941eaa925ee037d6a550aa0d09855b203b484f88f8ef6d5a1645f9"
+}
